@@ -1,8 +1,10 @@
+this project is made with the help of chatGPT and BlackboxAI
+
 **Getting Started
 
 
 Backend
-Clone the repository: git clone https://github.com/ABHAYPRATAPSINGH/todo-app.git
+Clone the repository: git clone https://github.com/AbhayPratapSingh-1/todo-app.git
 Install dependencies: npm install
 Start the server: npm start
 Open http://localhost:3000 in your browser# TODO-application
@@ -10,7 +12,7 @@ a post API for creating to-do item, listing all to-dos and edit features.
 
 
 Frontend
-Clone the repository: git clone https://github.com/your-username/todo-app.git
+Clone the repository: git clone https://github.com/AbhayPratapSingh-1/todo-app.git
 Install dependencies: npm install
 Start the development server: npm start
 Open http://localhost:3001 in your browser
