@@ -1,0 +1,10 @@
+todo-app/
+├── server.js  
+├── models/
+│   └── task.js
+├── controllers/
+│   └── taskController.js 
+├── routes/
+│   └── taskRoutes.js
+└── config/
+    └── db.js
